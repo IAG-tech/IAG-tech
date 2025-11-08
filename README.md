@@ -2,7 +2,7 @@
 
 💻 Junior System Administrator | Networking & Linux | Homelab & Automation
 
-📍 Spain, open to international opportunities in IT (Networking & Systems).  
+📍 Zaragoza (Spain) , open to international opportunities in IT (Networking & Systems).  
 
 ---
 
@@ -15,6 +15,7 @@ Networking & Systems:
 - Linux & Windows administration  
 - Virtualization
 - Packet Tracer, Wireshark, GNS3
+- Git (basic use for version control and documentation)
   
 Programming & Automation:
   - Python (learning), Bash
@@ -26,14 +27,14 @@ Programming & Automation:
 
 ### Homelab
 Hands-on lab environment focused on Linux, networking, security and automation.
-> Current work: secure remote access, DNS filtering, recursive DNS and VPN.
-🔗 https://github.com/IAG-tech/homelab
+> Current work: secure remote access, DNS filtering, recursive DNS and VPN.  
+🔗 [Homelab](https://github.com/IAG-tech/homelab-private)
 ---
 
 ## 🎯 Goals  
 
 - Short term: Strengthen Linux and Networking fundamentals.  
-- Medium term:  Deploy a reliable homelab stack with security, routing and automation
+- Medium term:  Deploy a reliable homelab stack with security, routing and automation.
 - Long term: Develop a solid career in IT while completing a mathematics degree to deepen analytical and engineering mindset. 
 
 ---
