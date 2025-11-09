@@ -28,7 +28,7 @@ Programming & Automation:
 ### Homelab
 Hands-on lab environment focused on Linux, networking, security and automation.
 > Current work: secure remote access, DNS filtering, recursive DNS and VPN.  
-🔗 [Homelab](https://github.com/IAG-tech/homelab-private)
+🔗 [Homelab](https://github.com/IAG-tech/homelab)
 ---
 
 ## 🎯 Goals  
