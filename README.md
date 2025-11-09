@@ -13,7 +13,7 @@ Networking & Systems:
 - CCNA (studying)
 - RHCSA (in progress)
 - Linux & Windows administration  
-- Virtualization
+- Virtualization & system hardening
 - Packet Tracer, Wireshark, GNS3
 - Git (basic use for version control and documentation)
   
