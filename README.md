@@ -1,17 +1,18 @@
 # 👋 Hi, I'm Ismael Andrés Gaspar 
 
-💻 Junior System Administrator | Networking & Linux | Homelab & Automation
+💻 Telecommunications & Systems | RF fundamentals | Networking & Linux 
 
-📍 Zaragoza (Spain) , open to international opportunities in IT (Networking & Systems).  
+📍 Zaragoza (Spain) , open to national or international opportunities   
 
 ---
+## Interests
+
+Radio communications, RF fundamentals, network planning, systems and analytical modeling.
 
 ## 🔧 Technical Skills  
 
-
 Networking & Systems: 
 - CCNA (studying)
-- RHCSA (in progress)
 - Linux & Windows administration  
 - Virtualization & system hardening
 - Packet Tracer, Wireshark, GNS3
@@ -20,12 +21,20 @@ Networking & Systems:
 Programming & Automation:
   - Python (learning), Bash
   - Basics of C, C++ and Java (academic exposure)
+  - Octave/MATLAB
 
 ---
 
-## 📌 Projects  
+## 📌 Projects 
 
-### Homelab
+### 📡 RF Fundamentals (In progress)
+- Basic RF link budget modeling (FSPL) using Octave.
+- Parametric analysis of distance, frequency and losses.
+- Project focused on understanding coverage and planning fundamentals.
+  
+🔗 [RF](https://github.com/IAG-tech/RF)
+
+### 💻 Homelab
 Hands-on lab environment focused on Linux, networking, security and automation.
 > Current work: secure remote access, DNS filtering, recursive DNS and VPN.  
 🔗 [Homelab](https://github.com/IAG-tech/homelab)
@@ -33,10 +42,9 @@ Hands-on lab environment focused on Linux, networking, security and automation.
 
 ## 🎯 Goals  
 
-- Short term: Strengthen Linux and Networking fundamentals.  
-- Medium term:  Deploy a reliable homelab stack with security, routing and automation.
-- Long term: Develop a solid career in IT while completing a mathematics degree to deepen analytical and engineering mindset. 
-
+- Short term: Strengthen RF fundamentals (propagation, link budget, coverage) and telecom systems knowledge through hands-on simulations and real-world projects. 
+- Medium term: Grow into a junior RF planning / telecom systems role, contributing to the design and analysis of critical communications networks.
+- Long term: Develop a solid engineering career in telecommunications and applied systems, complementing professional experience with a Mathematics degree to deepen analytical and modeling capabilities.
 ---
 
 ## 📫 Connect with me  
