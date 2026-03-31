@@ -1,71 +1,71 @@
-# 👋 Hi, I'm Ismael Andrés Gaspar 
+# 👋 Hi, I'm Ismael Andrés Gaspar
 
-💻 RF & Telecommunications | Radio propagation | Link budget modelling | Network fundamentals
-
-📍 Zaragoza (Spain) , open to national or international opportunities   
+📡 RF Engineer in progress | Link budget & propagation modelling | 
+Satellite communications | SDR
+📍 Zaragoza, Spain — open to national and international opportunities
 
 ---
-## Interests
 
-Radio communications, RF fundamentals, network planning, systems and analytical modelling.
+## About
 
-## 🔧 Technical Skills  
+Telecommunications technician transitioning into RF systems 
+engineering. I build hands-on RF simulation projects to develop 
+real engineering skills — currently focused on link budget analysis, 
+propagation modelling and satellite communication scenarios.
 
-RF & Telecommunications:
-  - Radio propagation fundamentals
-  - Link budget analysis
-  - RF coverage modelling
+Active learner, practical mindset, looking to contribute to 
+real RF systems in space or critical communications.
 
-Programming & Technical Computing:
-  - Octave / MATLAB (RF modelling)
-  - Python (learning)
-  - Bash scripting
-
-Networking & Systems: 
-  - CCNA (studying)
-  - Linux administration  
-  - Virtualization & system hardening
-  - Packet Tracer, Wireshark, GNS3
-  - Git
-  
 ---
 
-## 📌 Projects 
+## 📡 Projects
 
-### 📡 RF Link Budget Simulator - Octave (In progress)
-Hands-on RF modelling project to explore radio propagation and link budget fundamentals.
+### RF Link Budget Simulator
+Modular RF propagation and link budget toolkit — terrestrial 
+and satellite scenarios.
 
-Features:
-- Free Space Path Loss (FSPL) modelling 
-- TETRA vs LTE coverage comparison
-- Parametric simulations
-- Log-normal shadow fading
+Implemented:
+- Propagation models: FSPL, Log-normal shadowing, 
+  Okumura-Hata, COST 231-Hata
+- Link margin analysis and technology comparison (TETRA vs LTE)
+- Satellite scenario: GEO at 35,786 km, S-band and UHF, 
+  atmospheric loss, elevation angle analysis
 
-Planned extensions:
-- Okumura-Hata propagation model
-- COST-231 extension
-- Monte Carlo simulations for coverege probability
+In progress:
+- Python migration (NumPy, SciPy, Matplotlib)
+- Monte Carlo simulation for outage probability
+- 2D coverage mapping
 
-🔗 [RF](https://github.com/IAG-tech/rf-link-budget-simulator)
+🔗 github.com/IAG-tech/rf-link-budget-simulator
 
-### 💻 Homelab
-Hands-on lab environment focused on Linux, networking, security and automation.
-> Current work: secure remote access, DNS filtering, recursive DNS and VPN.  
-🔗 [Homelab](https://github.com/IAG-tech/homelab)
 ---
 
-## 🎯 Goals  
+## 🔧 Technical Skills
 
-- Short term: Deepen RF propagation, link budget and radio coverage modelling knowledge through hands-on simulations and engineering projects. 
-- Medium term: Grow into a junior RF planning / telecom systems role, contributing to the design and analysis of critical communications networks.
-- Long term: Develop a solid engineering career in telecommunications and applied systems, complementing professional experience with a Mathematics degree to deepen analytical and modeling capabilities.
+RF: Link budget, propagation modelling, coverage analysis,
+spectrum analyser, signal generator
+Systems: LTE, TETRA, S-band/UHF satellite links, TCP/IP, 
+VLANs, Linux
+Programming: GNU Octave, Python (in progress), bash, Git
+
 ---
 
-## 📫 Connect with me  
+## 🎯 Goals
 
+Short term: Contribute to real RF systems in space or critical 
+communications — applying link budget, propagation and signal 
+analysis skills in a professional environment.
 
-- LinkedIn:  https://www.linkedin.com/in/iandresg/
-- Email: ismael.andres.gaspar@gmail.com
+Long term: Build a solid engineering career in RF and space 
+communications, complemented by a BEng in Telecommunications 
+at Universidad del País Vasco (UPV).
+
+---
+
+## 📫 Connect
+
+LinkedIn: linkedin.com/in/iandresg
+Email: ismael.andres.gaspar@gmail.com
 
 ---
 
