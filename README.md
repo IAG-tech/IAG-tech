@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Ismael Andrés Gaspar
 
 📡 RF Engineer in progress | Link budget & propagation modelling | 
-Satellite communications | SDR
+Satellite communications | DSP | SDR 
+
 📍 Zaragoza, Spain — open to national and international opportunities
 
 ---
@@ -22,7 +23,7 @@ real RF systems in space or critical communications.
 
 ### RF Link Budget Simulator
 Modular RF propagation and link budget toolkit — terrestrial 
-and satellite scenarios.
+and satellite scenarios. Implemented in Python.
 
 Implemented:
 - Propagation models: FSPL, Log-normal shadowing, 
@@ -30,11 +31,11 @@ Implemented:
 - Link margin analysis and technology comparison (TETRA vs LTE)
 - Satellite scenario: GEO at 35,786 km, S-band and UHF, 
   atmospheric loss, elevation angle analysis
+- Interactive Jupyter notebook demos with Plotly
 
 In progress:
-- Python migration (NumPy, SciPy, Matplotlib)
 - Monte Carlo simulation for outage probability
-- 2D coverage mapping
+- Electronic Warfare module
 
 🔗 github.com/IAG-tech/rf-link-budget-simulator
 
@@ -42,11 +43,15 @@ In progress:
 
 ## 🔧 Technical Skills
 
-RF: Link budget, propagation modelling, coverage analysis,
+**RF:** Link budget, propagation modelling, coverage analysis,
 spectrum analyser, signal generator
-Systems: LTE, TETRA, S-band/UHF satellite links, TCP/IP, 
-VLANs, Linux
-Programming: GNU Octave, Python (in progress), bash, Git
+
+**Systems:** LTE, TETRA, S-band/UHF satellite links, TCP/IP, 
+VLANs
+
+**Hardware:** RTL-SDR v5, Pynq-Z2 (Zynq-7000)
+
+**Programming:** Python (NumPy, SciPy,Plotly,Jupyter), Linux CLI, Git/Github
 
 ---
 
@@ -57,8 +62,7 @@ communications — applying link budget, propagation and signal
 analysis skills in a professional environment.
 
 Long term: Build a solid engineering career in RF and space 
-communications, complemented by a BEng in Telecommunications 
-at Universidad del País Vasco (UPV).
+communications, complemented by a BEng in Telecommunications.
 
 ---
 
