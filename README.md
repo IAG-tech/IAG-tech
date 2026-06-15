@@ -31,6 +31,9 @@ Implemented:
 - Link margin analysis and technology comparison (TETRA vs LTE)
 - Satellite scenario: GEO at 35,786 km, S-band and UHF, 
   atmospheric loss, elevation angle analysis
+- LEO/VLEO dynamic pass simulation — orbital geometry, 
+  Doppler shift and Doppler rate, dynamic link margin,
+  validated against STK Enterprise (AGI)
 - Interactive Jupyter notebook demos with Plotly
 
 In progress:
@@ -48,6 +51,8 @@ spectrum analyser, signal generator
 
 **Systems:** LTE, TETRA, S-band/UHF satellite links, TCP/IP, 
 VLANs
+
+**Tools:** STK Enterprise (AGI) — orbital propagation and validation
 
 **Hardware:** RTL-SDR v5, Pynq-Z2 (Zynq-7000)
 
